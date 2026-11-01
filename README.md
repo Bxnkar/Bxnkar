@@ -1,23 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=190&section=header&text=Om%20Bankar&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=8AB4F8&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+ML+Student;Sophomore+at+Atlas+Skill+Tech+University;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:f472b6&height=200&section=header&text=Om%20Bankar&fontSize=60&fontColor=ffffff&animation=fadeIn&fadeInSpeed=1.5"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/bankarom">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:bankarom2006@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Bxnkar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Bxnkar&theme=dracula&column=6&row=1&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -27,13 +24,70 @@
 
 Second-year **B.Tech in AI & Machine Learning** student at **Atlas Skill Tech University** with hands-on experience building production-grade Python applications and full-stack web solutions.
 
-I'm a **learn-by-building believer** based in **Navi Mumbai, India** 🇮🇳 with a passion for solving real-world problems using machine learning, backend engineering, and modern web technologies.
+I am a **learn-by-building believer** based in **Navi Mumbai, India** with a passion for solving real-world problems using machine learning, backend engineering, and modern web technologies.
 
 My focus areas:
 - **Machine Learning & AI** – Model development, data preprocessing, feature engineering
 - **Backend Engineering** – API design, database optimization, distributed systems
 - **Full-Stack Development** – End-to-end web applications with scalable architectures
 - **Big Data Processing** – Hadoop ecosystem, distributed computing, ETL pipelines
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>8ism</b> — AR application for people suffering with autism</summary>
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300/0f172a/8b5cf6?text=8ism+Demo" alt="8ism demo" width="100%"/>
+</p>
+
+AR application designed to support people with autism using computer vision and AR overlays for real-world interaction.
+
+**Tech:** Python · OpenCV · AR · Machine Learning  
+**Repo:** [github.com/Bxnkar/8ism](https://github.com/Bxnkar/8ism)
+
+</details>
+
+<details>
+<summary><b>Exoplanets</b> — ML-powered exoplanet classifier</summary>
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300/0f172a/06b6d4?text=Exoplanets+Demo" alt="Exoplanets demo" width="100%"/>
+</p>
+
+Machine Learning-powered exoplanet classifier built using NASA's Kepler Exoplanet Candidate dataset and supplemental Kaggle data. Predicts whether a detected astronomical signal corresponds to a real exoplanet or a false positive.
+
+**Tech:** Python · Scikit-learn · Pandas · NumPy · Machine Learning  
+**Repo:** [github.com/Bxnkar/Exoplanets](https://github.com/Bxnkar/Exoplanets)
+
+</details>
+
+<details>
+<summary><b>CrimeIntelWeb</b> — Crime intelligence web platform</summary>
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300/0f172a/f472b6?text=CrimeIntelWeb+Demo" alt="CrimeIntelWeb demo" width="100%"/>
+</p>
+
+Web platform for crime intelligence and data analysis.
+
+**Tech:** Python · Django · JavaScript · HTML · CSS  
+**Repo:** [github.com/Bxnkar/CrimeIntelWeb](https://github.com/Bxnkar/CrimeIntelWeb)
+
+</details>
+
+<details>
+<summary><b>More projects</b> — View all repositories</summary>
+
+- holidays — Open World Holidays Framework
+- Kalakaar
+- WikimediaUI-Style-Guide — Wikimedia Design Style Guide
+
+**All repos:** [github.com/Bxnkar?tab=repositories](https://github.com/Bxnkar?tab=repositories)
+
+</details>
 
 ---
 
@@ -96,11 +150,11 @@ My focus areas:
 | **Languages** | Python, Java, JavaScript, HTML, CSS, C# |
 | **Frameworks** | Django, Flask, Node.js, Next.js, React |
 | **Databases** | MySQL, MongoDB, SQLite, MariaDB, Supabase, Cassandra |
-| **ML/AI** | Scikit-learn, Pandas, NumPy, PyTorch, Feature Engineering, Classification |
+| **ML / AI** | Scikit-learn, Pandas, NumPy, PyTorch, Feature Engineering, Classification |
 | **Big Data** | Hadoop, HDFS, MapReduce, Hive, Pig, HBase, Sqoop |
 | **Concepts** | RAG, SEO, Automations, Workflows, Shell Commands, Distributed Systems |
 | **DevOps** | Docker, Kubernetes, Jenkins, Git, GitHub, Git Actions, Maven |
-| **Cloud** | Azure, AWS, DataBricks, Databricks, HDFS |
+| **Cloud** | Azure, AWS, Databricks, HDFS |
 
 </div>
 
@@ -121,19 +175,19 @@ My focus areas:
 
 ## Certifications & Courses
 
-**Complete Generative AI Course with Langchain and Huggingface** – Udemy  
-**Generative AI for Beginners** – Simplilearn  
-**Prompt Engineering** – Udemy  
-**Raasta Rakshak Social Awareness Certificate** – Urban Vision Hackathon  
+**Complete Generative AI Course with Langchain and Huggingface** — Udemy  
+**Generative AI for Beginners** — Simplilearn  
+**Prompt Engineering** — Udemy  
+**Raasta Rakshak Social Awareness Certificate** — Urban Vision Hackathon  
 
 ---
 
 ## Achievements & Activities
 
-- **Hackathon Participant** – Mumbai Hacks 2025
-- **Hackathon Participant** – upGrad Hackathon 2025
-- **Community Volunteer** – Municipal Elections 2026
-- **Problem Solver** – Passionate about building intelligent systems & real-world applications
+- **Hackathon Participant** — Mumbai Hacks 2025
+- **Hackathon Participant** — upGrad Hackathon 2025
+- **Community Volunteer** — Municipal Elections 2026
+- **Problem Solver** — Passionate about building intelligent systems & real-world applications
 
 ---
 
@@ -142,12 +196,9 @@ My focus areas:
 <div align="center">
 
 <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Bxnkar&theme=tokyonight&hide_border=true"/>
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bxnkar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bxnkar&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -162,7 +213,7 @@ My focus areas:
 **Email:** [bankarom2006@gmail.com](mailto:bankarom2006@gmail.com)  
 **LinkedIn:** [linkedin.com/in/bankarom](https://www.linkedin.com/in/bankarom)  
 **GitHub:** [github.com/Bxnkar](https://github.com/Bxnkar)  
-**Location:** Navi Mumbai, Maharashtra, India 🇮🇳
+**Location:** Navi Mumbai, Maharashtra, India
 
 </div>
 
@@ -170,6 +221,6 @@ My focus areas:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&text=Always%20Learning&fontSize=24&fontColor=ffffff"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:8b5cf6,100:06b6d4&height=100&section=footer&text=Always%20Building&fontSize=24&fontColor=ffffff&animation=fadeIn&fadeInSpeed=1.5"/>
 
 </div>
