@@ -195,12 +195,15 @@ Web platform for crime intelligence and data analysis.
 
 <div align="center">
 
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Bxnkar&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bxnkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/github/repos/Bxnkar?style=for-the-badge&logo=github&color=8b5cf6"/>
+<img src="https://img.shields.io/github/followers/Bxnkar?style=for-the-badge&logo=github&color=06b6d4"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bxnkar&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Bxnkar?tab=repositories">Repositories</a> ·
+<a href="https://github.com/Bxnkar?tab=stars">Stars</a> ·
+<a href="https://github.com/Bxnkar?tab=followers">Followers</a> ·
+<a href="https://github.com/Bxnkar?tab=activity">Activity</a>
 
 </div>
 
