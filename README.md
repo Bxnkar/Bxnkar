@@ -39,10 +39,6 @@ My focus areas:
 <details>
 <summary><b>8ism</b> — AR application for people suffering with autism</summary>
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300/0f172a/8b5cf6?text=8ism+Demo" alt="8ism demo" width="100%"/>
-</p>
-
 AR application designed to support people with autism using computer vision and AR overlays for real-world interaction.
 
 **Tech:** Python · OpenCV · AR · Machine Learning  
@@ -53,10 +49,6 @@ AR application designed to support people with autism using computer vision and 
 <details>
 <summary><b>Exoplanets</b> — ML-powered exoplanet classifier</summary>
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300/0f172a/06b6d4?text=Exoplanets+Demo" alt="Exoplanets demo" width="100%"/>
-</p>
-
 Machine Learning-powered exoplanet classifier built using NASA's Kepler Exoplanet Candidate dataset and supplemental Kaggle data. Predicts whether a detected astronomical signal corresponds to a real exoplanet or a false positive.
 
 **Tech:** Python · Scikit-learn · Pandas · NumPy · Machine Learning  
@@ -66,10 +58,6 @@ Machine Learning-powered exoplanet classifier built using NASA's Kepler Exoplane
 
 <details>
 <summary><b>CrimeIntelWeb</b> — Crime intelligence web platform</summary>
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300/0f172a/f472b6?text=CrimeIntelWeb+Demo" alt="CrimeIntelWeb demo" width="100%"/>
-</p>
 
 Web platform for crime intelligence and data analysis.
 
